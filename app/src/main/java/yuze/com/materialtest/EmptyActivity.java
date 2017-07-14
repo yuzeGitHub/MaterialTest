@@ -24,8 +24,6 @@ public class EmptyActivity extends AppCompatActivity   {
 
     public static final String FRUIT_NAME = "fruit_name";
     public static final String FRUIT_IMAGE_ID = "fruit_image_id";
-    private TextView namel;
-    private EditText name2;
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
